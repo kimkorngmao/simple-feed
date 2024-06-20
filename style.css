@@ -1,0 +1,57 @@
+html,
+body {
+    background-color: rgb(239, 238, 238);
+    margin: 0;
+    padding: 0;
+}
+
+.top-area {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: rgb(41, 41, 41);
+}
+
+.menu-item {
+    color: white;
+    display: inline-block;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.brand {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.main-area {
+    max-width: 700px;
+    margin: auto;
+    margin-top: 65px;
+}
+
+.box {
+    background-color: white;
+    margin: 20px;
+    padding: 12px;
+}
+
+.image {
+    width: 100%;
+    display: block;
+}
+
+.button {
+    color: rgb(44, 44, 44);
+    background-color: rgb(219, 219, 219);
+    display: inline-block;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.bottom-area {
+    background-color: rgb(228, 226, 226);
+    padding: 20px;
+    text-align: center;
+}
